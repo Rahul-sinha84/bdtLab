@@ -2,6 +2,10 @@
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ScalaWordCount.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/Dev/bdtLab/scalaProg/src/main/scala/target/scala-2.12/classes/ScalaWordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	minmax.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/Dev/bdtLab/scalaProg/src/main/scala/target/scala-2.12/classes/minmax.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ScalaWordCount$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/Dev/bdtLab/scalaProg/src/main/scala/target/scala-2.12/classes/ScalaWordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	minmax$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/Dev/bdtLab/scalaProg/src/main/scala/target/scala-2.12/classes/minmax$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
